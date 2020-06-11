@@ -1,6 +1,6 @@
 # spksaw
 metode saw
-![login](https://user-images.githubusercontent.com/26849052/84419132-60331180-ac42-11ea-9385-377d422cf974.JPG)
+![log](https://user-images.githubusercontent.com/26849052/84419536-f1a28380-ac42-11ea-881a-6557466412b5.JPG)
 ![dashboard](https://user-images.githubusercontent.com/26849052/84419124-5c9f8a80-ac42-11ea-9d7d-ee1bb64600bb.JPG)
 ![data tarif](https://user-images.githubusercontent.com/26849052/84419125-5d382100-ac42-11ea-98e0-9743a8bb864d.JPG)
 ![pembobotan](https://user-images.githubusercontent.com/26849052/84419138-61fcd500-ac42-11ea-81f9-8fb514c70bd1.JPG)
