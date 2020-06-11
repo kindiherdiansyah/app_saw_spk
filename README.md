@@ -9,5 +9,6 @@ metode saw
 ![himpunan](https://user-images.githubusercontent.com/26849052/84419126-5dd0b780-ac42-11ea-8d35-80d0370de1e5.JPG)
 ![klas](https://user-images.githubusercontent.com/26849052/84419128-5e694e00-ac42-11ea-82bd-ba1936a1cd7b.JPG)
 ![analisa](https://user-images.githubusercontent.com/26849052/84419117-5ad5c700-ac42-11ea-8d9b-4b817ec546cb.JPG)
-![pim](https://user-images.githubusercontent.com/26849052/84419142-632e0200-ac42-11ea-9582-06ceb9bbeaae.JPG)
 ![analisaa](https://user-images.githubusercontent.com/26849052/84419123-5c06f400-ac42-11ea-8225-7034ee3f0038.JPG)
+![pim](https://user-images.githubusercontent.com/26849052/84419142-632e0200-ac42-11ea-9582-06ceb9bbeaae.JPG)
+
