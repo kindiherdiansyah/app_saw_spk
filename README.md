@@ -11,4 +11,5 @@ metode saw
 ![analisa](https://user-images.githubusercontent.com/26849052/84419117-5ad5c700-ac42-11ea-8d9b-4b817ec546cb.JPG)
 ![analisaa](https://user-images.githubusercontent.com/26849052/84419123-5c06f400-ac42-11ea-8225-7034ee3f0038.JPG)
 ![pim](https://user-images.githubusercontent.com/26849052/84419142-632e0200-ac42-11ea-9582-06ceb9bbeaae.JPG)
+![ss](https://user-images.githubusercontent.com/26849052/84454653-5e3e7200-ac85-11ea-81ab-8e553485f912.JPG)
 
